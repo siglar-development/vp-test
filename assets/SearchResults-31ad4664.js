@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s}from"./index-bd3050ed.js";const c={data:()=>({})};function a(o,r,n,_,l,p){return t(),s("div",null," Search Results view ")}const d=e(c,[["render",a]]);export{d as default};
