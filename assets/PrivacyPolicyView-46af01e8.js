@@ -1,0 +1,1 @@
+import{_ as c,o as e,c as o}from"./index-0b6104a4.js";const t={data:()=>({})};function a(r,n,s,i,_,l){return e(),o("div",null," Privacy Policy view ")}const d=c(t,[["render",a]]);export{d as default};
